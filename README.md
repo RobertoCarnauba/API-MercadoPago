@@ -2,5 +2,20 @@
 ## [MercadoPago] API-MercadoPago
 
 <p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpluga.co%2Fblog%2Fapi%2Fcomo-funciona-o-mercadopago-para-o-vendedor%2F&psig=AOvVaw25GloltAs9aDZxP4VOmYiP&ust=1593375379145000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOicw_TrouoCFQAAAAAdAAAAABAD" alt="My cool logo"/>
+<img src="mercadopago.jpg" alt="logo mercado pago"/>
 </p> 
+
+Implemente a solução de pagamentos ideal para qualquer tipo de negócio
+
+### Pré-requisitos:
+
+1. Acesso à conta do Mercado Pago ou do Mercado Livre
+Para poder começar a integração, é necessário contar com uma conta do Mercado Pago ou do Mercado Livre.
+*Caso você ainda não tenha uma, pode criar uma conta do Mercado Pago quando quiser.*
+
+2. Instalação do SDK do Mercado Pago
+Instale o SDK oficial para simplificar sua integração com as nossas APIs.
+
+```
+npm install mercadopago
+```
