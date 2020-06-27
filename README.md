@@ -1,3 +1,5 @@
 # API-MercadoPago
-<img src="seleniun.jpg">
-<img src="mecpag.jpg" alt="My cool logo"/>
+
+<p align="center">
+<img src="mercadopago.jpg" alt="My cool logo"/>
+</p> 
